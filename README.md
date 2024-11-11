@@ -1,3 +1,9 @@
+### 👋 Hi there, I'm Akhil Regonda!
+
+---
+
+![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
+
 <h3>When I code, I rely on</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
