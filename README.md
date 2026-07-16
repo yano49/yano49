@@ -34,10 +34,5 @@ Information Technology Student • AI Enthusiast • Data Analyst
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-## 👾 Pac-Man Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yano49/yano49/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph">
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
