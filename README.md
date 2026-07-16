@@ -33,7 +33,6 @@ Information Technology Student • AI Enthusiast • Data Analyst
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![](https://visitcount.itsvg.in/api?id=yano49&icon=6&color=4)](https://visitcount.itsvg.in)
 
 ## 👾 Pac-Man Contribution Graph
 
