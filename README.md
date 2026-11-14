@@ -23,6 +23,7 @@ Information Technology Student • AI Enthusiast • Data Analyst
 
 
 ## 📈 Contribution Graph
+![Snake animation](https://raw.githubusercontent.com/yano49/yano49/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=yano49&theme=tokyo-night)
 
